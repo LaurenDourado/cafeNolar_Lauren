@@ -51,17 +51,10 @@ O design é totalmente responsivo e foi otimizado para oferecer a melhor experi�
 - **Imagens e Cards**: As imagens da galeria e os cards de receitas são ajustados para se organizarem em uma coluna única em telas pequenas, e em múltiplas colunas em telas grandes.
 - **Fontes e Layouts Flexíveis**: Utilização de fontes do Google Fonts para garantir legibilidade e harmonia visual, além do uso de layouts flexíveis para garantir que os elementos da página se ajustem adequadamente ao tamanho da tela.
 
-## Como Rodar o Projeto
+### Página finalizada
+![image](https://github.com/user-attachments/assets/094dfb18-c741-4bed-aaf2-96e5b1cfcd07)
+![image](https://github.com/user-attachments/assets/c61d6fb6-d2b9-47fd-8c43-3a73f2289c03)
+![image](https://github.com/user-attachments/assets/7b9c8bdc-9a5f-4a9e-9f43-980b89dc27f0)
 
-1. Clone o repositório:
-   ```
-   git clone https://github.com/seu-usuario/cafenolar.git
-   ```
 
-2. Abra o arquivo `index.html` no seu navegador de preferência.
 
-3. O projeto está pronto para ser visualizado em qualquer dispositivo!
-
----
-
-Este README agora fornece uma visão detalhada de como a página foi construída e como ela responde de maneira eficiente a diferentes tamanhos de tela. Ele também explica as funcionalidades interativas implementadas e como elas contribuem para a experiência do usuário.
